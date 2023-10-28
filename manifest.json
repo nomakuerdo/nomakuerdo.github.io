@@ -1,6 +1,6 @@
 {
-    "name": "nomakuerdo_v5",
-    "short_name": "nomakuerdo_v5",
+    "name": "nomakuerdo",
+    "short_name": "nomakuerdo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
